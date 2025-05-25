@@ -1,5 +1,7 @@
 ### Bem vindo meu GitHub 👋
 
+# Criado por Melvin Conway, ele descreve a Lei de Conway mais ou menos assim: “Qualquer organização que projete um sistema irá desenvolver uma estrutura para esse sistema que será uma cópia de estrutura de comunicação da própria organização.
+
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Rodrigo and my nickname is "rodrigofurlaneti"!
 

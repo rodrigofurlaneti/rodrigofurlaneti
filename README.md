@@ -59,7 +59,7 @@ Relatórios de cobertura de teste e relatórios de execução de teste são mét
 Links:
 
 > ## 🌐 Developer Roadmap:
-> > [![Developer Roadmap](https://avatars.githubusercontent.com/u/4921183?s=48&v=4)](https://github.com/kamranahmedse/developer-roadmap)> 
+> [![Developer Roadmap](https://avatars.githubusercontent.com/u/4921183?s=48&v=4)](https://github.com/kamranahmedse/developer-roadmap)> 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

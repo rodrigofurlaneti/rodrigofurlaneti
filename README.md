@@ -56,4 +56,12 @@ Relatórios de cobertura de teste e relatórios de execução de teste são mét
 
 [![](https://visitcount.itsvg.in/api?id=RODRIGOFURLANETI&icon=0&color=0)](https://visitcount.itsvg.in)
 
+Links:
+
+> [!Links]
+> ## 🌐 Developer Roadmap:
+> [![Developer Roadmap](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-luiz-madeira-furlaneti/)
+> 
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

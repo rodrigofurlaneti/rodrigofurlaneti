@@ -61,7 +61,7 @@ Links:
 > ## 🌐 Developer Roadmap:
 > [![Developer Roadmap](https://avatars.githubusercontent.com/u/4921183?s=48&v=4)](https://github.com/kamranahmedse/developer-roadmap)
 > ## 🌐 Building a Continuous Delivery Pipeline with Git & Jenkins:
-> [![Building a Continuous Delivery Pipeline with Git & Jenkins]([https://cdn-icons-png.flaticon.com/512/10169/10169718.png](https://www.tatvasoft.com/blog/wp-content/uploads/2023/06/CD-Implementation-with-Jenkins.webp))](https://stackify.com/continuous-delivery-git-jenkins/)
+> [![Building a Continuous Delivery Pipeline with Git & Jenkins](https://www.xenonstack.com/hubfs/continuous-delivery-jenkins-pipeline.png)](https://www.tatvasoft.com/blog/wp-content/uploads/2023/06/CD-Implementation-with-Jenkins.webp))](https://stackify.com/continuous-delivery-git-jenkins/)
 >
 
 
